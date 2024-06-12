@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|c:\\users\\rodrigo.desktop-qnru8gq\\projetos dev\\teste\\api\\apiteste\\apiteste\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|c:\\users\\rodrigo.desktop-qnru8gq\\projetos dev\\teste\\api\\apiteste\\apiteste\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|c:\\users\\rodrigo.desktop-qnru8gq\\projetos dev\\teste\\api\\apiteste\\apiteste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|c:\\users\\rodrigo.desktop-qnru8gq\\projetos dev\\teste\\api\\apiteste\\apiteste\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|c:\\users\\rodrigo.desktop-qnru8gq\\projetos dev\\teste\\api\\apiteste\\apiteste\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|c:\\users\\rodrigo.desktop-qnru8gq\\projetos dev\\teste\\api\\apiteste\\apiteste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|c:\\users\\rodrigo.desktop-qnru8gq\\projetos dev\\teste\\api\\apiteste\\apiteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D202EF92-8D0F-4FE5-A687-29B820C5790C}|APITeste\\APITeste.csproj|solutionrelative:apiteste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Program.cs",
+              "RelativeDocumentMoniker": "APITeste\\Program.cs",
+              "ToolTip": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Program.cs",
+              "RelativeToolTip": "APITeste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:32:56.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\appsettings.json",
+              "RelativeDocumentMoniker": "APITeste\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\appsettings.json",
+              "RelativeToolTip": "APITeste\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:28:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "APITeste\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "APITeste\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:19:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "APITeste\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "APITeste\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:13:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Models\\EFDBContext.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\EFDBContext.cs",
+              "ToolTip": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Models\\EFDBContext.cs",
+              "RelativeToolTip": "APITeste\\Models\\EFDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:36:36.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Models\\Produto.cs",
+              "RelativeToolTip": "APITeste\\Models\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:16:06.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "APITeste\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Rodrigo.DESKTOP-QNRU8GQ\\Projetos Dev\\Teste\\API\\APITeste\\APITeste\\Models\\Categoria.cs",
+              "RelativeToolTip": "APITeste\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:36:35.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
